@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess Who</title>
+
+    <style>
+      button
+      {
+        font-size: 50px;
+        padding :20px;
+        border-radius: 20px;
+        margin: 30px;
+      }
+      #GuessButton
+      {
+        text-align: center;
+      }
+      div.bio{
+        outline-style: inset;
+        outline-color: darkgoldenrod;
+        outline-width: medium;
+      }
+      div.game{
+        background-color: darkgoldenrod;
+        width: 450px;
+        border: 15px solid navy;
+        padding: 150px;
+        margin: 150px;
+      }
+    </style>
+    <script src="GuessMe.js"></script>
+</head>
+<body style="background-color: cornflowerblue;">
+    <h1 style="text-align: center; color: crimson; font-size: 300%; font-family: Segoe UI;">How well do You Know Me?</h1>
+    <h2>Biography</h2>
+    <div class="bio">
+      <p><b>Name: </b>Alecia WIlliams-Broderick</p>
+      <p><b>Education:</b> 
+      <p><i>Holy Childhood High Sch:</i> 9 CXC  </p>
+     <p><i>University of Technology:</i> Bachelor Degree in Computer Science </p>
+      <p><i>Mono School of Business: </i>Principles of Project Management </p>
+    </p>
+    <p><b>Career: </b>Assessment Clerk, National Commerical Bank</p>
+    </div>
+    
+<div class="game">
+  <h1 style="text-align: center; font-family: Cambria; color:blue" >Guess-Me-?</h1>
+  <h2 style="text-align:center;">If you think you know me lets play a game to see how well you do.</h2>
+  <h3 style="text-align: center;">Click the buton to start the game.</h3>
+  <div id="GuessButton">
+    <button  onclick="Guesswho()">Let's Play</button>
+  </div>
+</div>
+  
+  
+</body>
+</html>
