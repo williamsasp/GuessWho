@@ -46,15 +46,15 @@ h1{
   padding: 1px 25px;
   text-decoration: none;
 }
-.img2
+div.img2
 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  //dsisplay: block;
+  //margin-left: auto;
+  //margin-right: auto;
   width: 50%;
   Float: left;
 }
-Div.fav
+div.fav
 {
   width: 50%;
   Float: left;
