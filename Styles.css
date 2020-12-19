@@ -50,7 +50,10 @@ div.fav
 {
  margin: 30%;
 }
-
+div.img2
+{
+ display: inline-block;
+}
 button
   {
     font-size: 50px;
