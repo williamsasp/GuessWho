@@ -49,12 +49,12 @@ h1{
 div.img2
 {
   width: 50%;
-  Float: left;
+  float: left;
 }
 div.fav
 {
   width: 50%;
-  Float: left;
+  float: right;
 }
 button
   {
