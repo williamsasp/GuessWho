@@ -27,8 +27,7 @@ h1{
   text-decoration: aquamarine;
   text-decoration-style: solid;
 }
-#nav .bar a
-{
+#nav .bar a {
   list-style-type:none;
   margin: 0;
   padding: 0;
@@ -46,28 +45,23 @@ h1{
   padding: 1px 25px;
   text-decoration: none;
 }
-div.img2
-{
+div.img2 {
  display:inline-block;
 }
-div.fav
-{
+div.fav {
  margin-left: 30%;
+ height: 1000px;
 }
-
-button
-  {
+button {
     font-size: 50px;
     padding :20px;
     border-radius: 20px;
     margin: 30px;
   }
-#GuessButton
-  {
+#GuessButton {
     text-align: center;
   }
-div.bio
-{
+div.bio {
   outline-style: inset;
   outline-color: darkgoldenrod;
   outline-width: medium;
@@ -78,8 +72,7 @@ div.personal
  padding:1px 16px;
  height:1000px;
 }
-div.game
-{
+div.game {
   background-color: darkgoldenrod;
   width: 450px;
   border: 15px solid navy;
