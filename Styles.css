@@ -54,6 +54,8 @@ div.fav
 div.img2
 {
 display: inline-block;
+width: 50%;
+height: 50%;
 }
 button
   {
