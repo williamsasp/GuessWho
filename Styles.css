@@ -45,7 +45,7 @@ h1{
   padding: 1px 25px;
   text-decoration: none;
 }
-.inLine {
+#favinfo{
  display:inline-block;
 }
 .fav {
