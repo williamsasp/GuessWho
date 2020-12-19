@@ -48,13 +48,13 @@ h1{
 }
 div.fav
 {
- margin-left:100%;
+ margin-left:200%;
  padding:1px 16px;
  height:1000px;
 }
 div.img2
 {
-display: inline-block;
+ display: inline-block;
 }
 button
   {
