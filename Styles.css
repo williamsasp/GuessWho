@@ -45,10 +45,10 @@ h1{
   padding: 1px 25px;
   text-decoration: none;
 }
-div.img2 {
+.img2 {
  display:inline-block;
 }
-div.fav {
+.fav {
  margin-left: 30%;
  height: 1000px;
 }
@@ -61,18 +61,18 @@ button {
 #GuessButton {
     text-align: center;
   }
-div.bio {
+.bio {
   outline-style: inset;
   outline-color: darkgoldenrod;
   outline-width: medium;
 }
-div.personal
+.personal
 {
  margin-left:35%;
  padding:1px 16px;
  height:1000px;
 }
-div.game {
+.game {
   background-color: darkgoldenrod;
   width: 450px;
   border: 15px solid navy;
