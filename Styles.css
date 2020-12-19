@@ -45,7 +45,7 @@ h1{
   padding: 1px 25px;
   text-decoration: none;
 }
-.img2 {
+.inLine {
  display:inline-block;
 }
 .fav {
@@ -68,7 +68,7 @@ button {
 }
 .personal
 {
- margin-left:35%;
+ margin-left:300px;
  padding:1px 16px;
  height:1000px;
 }
