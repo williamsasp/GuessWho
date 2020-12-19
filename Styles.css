@@ -48,7 +48,8 @@ h1{
 }
 div.fav
 {
- margin-left:50%;
+ margin-left:35%;
+ padding:1px 16px;
  height:1000px;
 }
 div.img2
