@@ -46,19 +46,19 @@ h1{
   padding: 1px 25px;
   text-decoration: none;
 }
-#favinfo
-{
- display: inline-block;
-}
+
 div.img2
 {
+  display: inline-block;
   width: 50%;
-  float: left;
+  height: 50%;
+  
 }
 div.fav
 {
+  display: inline-block;
   width: 50%;
-  float: right;
+  height: 50%;
 }
 button
   {
