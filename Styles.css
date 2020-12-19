@@ -46,14 +46,15 @@ h1{
   padding: 1px 25px;
   text-decoration: none;
 }
+div.img2
+{
+ display: inline-block;
+}
 div.fav
 {
  margin: 30%;
 }
-.img2
-{
- display: inline-block;
-}
+
 button
   {
     font-size: 50px;
